@@ -5,6 +5,8 @@
 <link rel="stylesheet" href="css.css">
 </head>
 <body>
+
+    
 <header id="header-div">
 <img src="images/header-logo-image.jpg" id="header-div-img">
 <div id="header-div-menu">
@@ -18,7 +20,12 @@
 <a href="#"><li>Login</li></a>
 </ul>    
 </div>    
-
 </header>
+    
+
+<div id="image-div">
+ 
+</div>    
+    
 </body>
 </html>
