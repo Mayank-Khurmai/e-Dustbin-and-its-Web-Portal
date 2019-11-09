@@ -6,7 +6,30 @@ body{
     background-color: burlywood;
 }
 
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#header-div-img{
+    height: 90px;
+    width: 150px;
+    float: left;
+    border-radius: 10px;
+}
+#header-div-menu{
+    height: 90px;
+    width: 450px;
+    float: right;
+    border-radius: 10px;
+    border: 1px solid red;
+}
+
+#header-div-menu ul{
+    display: inline block;
+}
+
 #header-div-menu ul li{
     list-style: none;
-    display: inline block;
+    display: inline;
 }

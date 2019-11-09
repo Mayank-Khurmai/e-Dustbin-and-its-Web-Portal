@@ -6,7 +6,7 @@
 </head>
 <body>
 <header id="header-div">
-
+<img src="images/header-logo-image.jpg" id="header-div-img">
 <div id="header-div-menu">
 <ul>
 <a href="#"><li>Home</li></a>
