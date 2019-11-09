@@ -4,6 +4,8 @@
 
 body{
     background-color: burlywood;
+    padding: 0px;
+    margin: 0px;
 }
 
 a{
@@ -25,6 +27,7 @@ a{
     float: left;
     margin-left: 100px;
     border-radius: 10px;
+    border: 2px solid black;
 }
 
 #header-div-menu{
@@ -56,4 +59,10 @@ a{
     border-style: inset;
     margin-bottom: 50px;
     border: 1px solid black;
+    }
+
+#about-div{
+    width: 100%;
+    height: 550px;
+    background-color: red;;
     }

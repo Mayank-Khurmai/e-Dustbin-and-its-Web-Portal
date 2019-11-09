@@ -27,5 +27,10 @@
  
 </div>    
     
+<div id="about-div">
+<h1><center>About e-Portal</center></h1>    
+    
+</div>
+    
 </body>
 </html>
