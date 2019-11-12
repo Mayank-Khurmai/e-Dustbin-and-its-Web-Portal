@@ -27,6 +27,9 @@
  
 </div>    hymlhead
     cmgrml
+    <a href="#"><li>Inform Us</li></a>
+<a href="#"><li>Photos</li></a>
+<a href="#"><li>Videos</li></a>
     body
     head
     csd
